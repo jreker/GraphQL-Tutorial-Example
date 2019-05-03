@@ -1,0 +1,22 @@
+{
+  "name": "graphql-tut",
+  "version": "1.0.0",
+  "description": "GraphQL Tutorial to make the first steps with GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jreker/GraphQL-Tutorial.git"
+  },
+  "author": "Johannes Reker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jreker/GraphQL-Tutorial/issues"
+  },
+  "homepage": "https://github.com/jreker/GraphQL-Tutorial#readme",
+  "dependencies": {
+    "graphql": "^14.2.1"
+  }
+}
