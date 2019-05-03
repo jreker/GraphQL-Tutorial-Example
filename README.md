@@ -10,7 +10,7 @@ npm install
 ```
 
 ## Example GraphiQL Query
-```
+```javascript
 {
   hello,
   quoteOfTheDay,
