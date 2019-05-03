@@ -1,5 +1,6 @@
-# GraphQL-Tutorial
+# GraphQL-Tutorial/Example
 This is a project i have made to learn GraphQL. You can just take it and do what you want.
+
 This project is based on the tutorial from https://graphql.org
 
 ## Getting started
